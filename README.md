@@ -6,7 +6,7 @@ Download the dataset from the following Kaggle Compitation https://www.kaggle.co
 the credits to the original collectors.
 
 For an NLP problem like the Toxic Tweets dataset, the process typically involves the following steps:
-# Step 1: Load the Toxic Tweets Dataset
+## Step 1: Load the Toxic Tweets Dataset
 First, load the dataset, which should have at least two columns: the text of the tweet and the label (indicating whether the tweet is toxic or not).
 
 # Step 2: Preprocess the Text
